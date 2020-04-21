@@ -456,11 +456,20 @@ class ApiController extends Controller
     public function icon()
     {
         $data = request()->input();
+//        dd($data);
         $an = Analysi::where(['a_id'=>$data['a_id'],'t_id'=>$data['t_id']])->first(['s_id']);
+        $id = Pay::where(['t_id'=>$data['t_id'],'status'=>2])->get();
+        $openid = '';
+        foreach($id as $k => $v){
+            $openid .=','.$v['openid'];
+        }
+        $openid = explode(',',trim($openid,','));
+        $count = Users::whereIN('openid',$openid)->count();
+        $icons = Users::whereIN('openid',$openid)->get(['avatarUrl']);
         $s_id = $an['s_id'];
        $icon = Icon::where('s_id',$s_id)->first();
-       $img = json_decode($icon['i_img']) ;
+       $img = json_decode($icon['i_img']);
         $i_us = $icon['i_us'];
-        return json_encode(['img'=>$img,'i_us'=>$i_us]);
+        return json_encode(['img'=>$img,'i_us'=>$i_us,'count'=>$count,'avatarUrl'=>$icons]);
     }
 }
