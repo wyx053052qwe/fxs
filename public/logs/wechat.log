@@ -1,0 +1,172 @@
+2020-04-02 15:58:14 > yansongda.pay.DEBUG > Wechat Generate Sign Content Before Trim [{"mch_id":"14577xxxx","nonce_str":"6OWfgMPCt5LH2iIk"},"mch_id=14577xxxx&nonce_str=6OWfgMPCt5LH2iIk&"] 
+
+2020-04-02 15:58:14 > yansongda.pay.DEBUG > Wechat Generate Sign Before UPPER [{"mch_id":"14577xxxx","nonce_str":"6OWfgMPCt5LH2iIk"},"3a9e56380ddb68c2afdecb9e1611f2f1"] 
+
+2020-04-02 15:58:14 > yansongda.pay.DEBUG > Requesting To Wechat Api ["https://api.mch.weixin.qq.com/sandboxnew/pay/getsignkey",{"mch_id":"14577xxxx","nonce_str":"6OWfgMPCt5LH2iIk","sign":"3A9E56380DDB68C2AFDECB9E1611F2F1"}] 
+
+2020-04-02 15:58:14 > yansongda.pay.DEBUG > Result Of Wechat Api {"return_code":"FAIL","retmsg":"请确认请求参数是否正确mch_id","retcode":"1"} 
+
+2020-04-02 16:02:09 > yansongda.pay.DEBUG > Wechat Generate Sign Content Before Trim [{"mch_id":"14577xxxx","nonce_str":"DZhNWAYP9iXH0Ykk"},"mch_id=14577xxxx&nonce_str=DZhNWAYP9iXH0Ykk&"] 
+
+2020-04-02 16:02:09 > yansongda.pay.DEBUG > Wechat Generate Sign Before UPPER [{"mch_id":"14577xxxx","nonce_str":"DZhNWAYP9iXH0Ykk"},"ea43193fb1d4262376976c75485f28b2"] 
+
+2020-04-02 16:02:09 > yansongda.pay.DEBUG > Requesting To Wechat Api ["https://api.mch.weixin.qq.com/sandboxnew/pay/getsignkey",{"mch_id":"14577xxxx","nonce_str":"DZhNWAYP9iXH0Ykk","sign":"EA43193FB1D4262376976C75485F28B2"}] 
+
+2020-04-02 16:02:09 > yansongda.pay.DEBUG > Result Of Wechat Api {"return_code":"FAIL","retmsg":"请确认请求参数是否正确mch_id","retcode":"1"} 
+
+2020-04-02 16:04:15 > yansongda.pay.DEBUG > Wechat Generate Sign Content Before Trim [{"mch_id":"14577xxxx","nonce_str":"LLHdRmriuZfoct3w"},"mch_id=14577xxxx&nonce_str=LLHdRmriuZfoct3w&"] 
+
+2020-04-02 16:04:15 > yansongda.pay.DEBUG > Wechat Generate Sign Before UPPER [{"mch_id":"14577xxxx","nonce_str":"LLHdRmriuZfoct3w"},"caa9cfcdb363252e047c3af68b2e7aef"] 
+
+2020-04-02 16:04:15 > yansongda.pay.DEBUG > Requesting To Wechat Api ["https://api.mch.weixin.qq.com/sandboxnew/pay/getsignkey",{"mch_id":"14577xxxx","nonce_str":"LLHdRmriuZfoct3w","sign":"CAA9CFCDB363252E047C3AF68B2E7AEF"}] 
+
+2020-04-02 16:04:16 > yansongda.pay.DEBUG > Result Of Wechat Api {"return_code":"FAIL","retmsg":"请确认请求参数是否正确mch_id","retcode":"1"} 
+
+2020-04-02 16:05:03 > yansongda.pay.DEBUG > Wechat Generate Sign Content Before Trim [{"mch_id":"14577xxxx","nonce_str":"CGbmHjT2b2um2JeT"},"mch_id=14577xxxx&nonce_str=CGbmHjT2b2um2JeT&"] 
+
+2020-04-02 16:05:03 > yansongda.pay.DEBUG > Wechat Generate Sign Before UPPER [{"mch_id":"14577xxxx","nonce_str":"CGbmHjT2b2um2JeT"},"46fc771064e190dba73b92bc3207c697"] 
+
+2020-04-02 16:05:03 > yansongda.pay.DEBUG > Requesting To Wechat Api ["https://api.mch.weixin.qq.com/sandboxnew/pay/getsignkey",{"mch_id":"14577xxxx","nonce_str":"CGbmHjT2b2um2JeT","sign":"46FC771064E190DBA73B92BC3207C697"}] 
+
+2020-04-02 16:05:03 > yansongda.pay.DEBUG > Result Of Wechat Api {"return_code":"FAIL","retmsg":"请确认请求参数是否正确mch_id","retcode":"1"} 
+
+2020-04-02 16:06:07 > yansongda.pay.DEBUG > Wechat Generate Sign Content Before Trim [{"mch_id":"14577xxxx","nonce_str":"ZaoGiFjMzg9LFXFd"},"mch_id=14577xxxx&nonce_str=ZaoGiFjMzg9LFXFd&"] 
+
+2020-04-02 16:06:07 > yansongda.pay.DEBUG > Wechat Generate Sign Before UPPER [{"mch_id":"14577xxxx","nonce_str":"ZaoGiFjMzg9LFXFd"},"2d47b6ae819b67a4d9915c5316c2abc9"] 
+
+2020-04-02 16:06:07 > yansongda.pay.DEBUG > Requesting To Wechat Api ["https://api.mch.weixin.qq.com/sandboxnew/pay/getsignkey",{"mch_id":"14577xxxx","nonce_str":"ZaoGiFjMzg9LFXFd","sign":"2D47B6AE819B67A4D9915C5316C2ABC9"}] 
+
+2020-04-02 16:06:07 > yansongda.pay.DEBUG > Result Of Wechat Api {"return_code":"FAIL","retmsg":"请确认请求参数是否正确mch_id","retcode":"1"} 
+
+2020-04-02 16:11:30 > yansongda.pay.DEBUG > Wechat Generate Sign Content Before Trim [{"mch_id":"14577xxxx","nonce_str":"APr9NKeL1crXiYFS"},"mch_id=14577xxxx&nonce_str=APr9NKeL1crXiYFS&"] 
+
+2020-04-02 16:11:30 > yansongda.pay.DEBUG > Wechat Generate Sign Before UPPER [{"mch_id":"14577xxxx","nonce_str":"APr9NKeL1crXiYFS"},"0254b9cb27bbcd7aa570cba4a22a7985"] 
+
+2020-04-02 16:11:30 > yansongda.pay.DEBUG > Requesting To Wechat Api ["https://api.mch.weixin.qq.com/sandboxnew/pay/getsignkey",{"mch_id":"14577xxxx","nonce_str":"APr9NKeL1crXiYFS","sign":"0254B9CB27BBCD7AA570CBA4A22A7985"}] 
+
+2020-04-02 16:11:31 > yansongda.pay.DEBUG > Result Of Wechat Api {"return_code":"FAIL","retmsg":"请确认请求参数是否正确mch_id","retcode":"1"} 
+
+2020-04-02 16:13:30 > yansongda.pay.DEBUG > Wechat Generate Sign Content Before Trim [{"mch_id":"14577xxxx","nonce_str":"MsREMcFP22Pk1xb8"},"mch_id=14577xxxx&nonce_str=MsREMcFP22Pk1xb8&"] 
+
+2020-04-02 16:13:30 > yansongda.pay.DEBUG > Wechat Generate Sign Before UPPER [{"mch_id":"14577xxxx","nonce_str":"MsREMcFP22Pk1xb8"},"89368282e2bb25c7d022135bce2991fd"] 
+
+2020-04-02 16:13:30 > yansongda.pay.DEBUG > Requesting To Wechat Api ["https://api.mch.weixin.qq.com/sandboxnew/pay/getsignkey",{"mch_id":"14577xxxx","nonce_str":"MsREMcFP22Pk1xb8","sign":"89368282E2BB25C7D022135BCE2991FD"}] 
+
+2020-04-02 16:13:30 > yansongda.pay.DEBUG > Result Of Wechat Api {"return_code":"FAIL","retmsg":"请确认请求参数是否正确mch_id","retcode":"1"} 
+
+2020-04-02 16:13:44 > yansongda.pay.DEBUG > Wechat Generate Sign Content Before Trim [{"mch_id":"14577xxxx","nonce_str":"iNd4T8tMZisXqXj0"},"mch_id=14577xxxx&nonce_str=iNd4T8tMZisXqXj0&"] 
+
+2020-04-02 16:13:44 > yansongda.pay.DEBUG > Wechat Generate Sign Before UPPER [{"mch_id":"14577xxxx","nonce_str":"iNd4T8tMZisXqXj0"},"adf9c64de16a8bbb014295c22f9176f6"] 
+
+2020-04-02 16:13:44 > yansongda.pay.DEBUG > Requesting To Wechat Api ["https://api.mch.weixin.qq.com/sandboxnew/pay/getsignkey",{"mch_id":"14577xxxx","nonce_str":"iNd4T8tMZisXqXj0","sign":"ADF9C64DE16A8BBB014295C22F9176F6"}] 
+
+2020-04-02 16:13:44 > yansongda.pay.DEBUG > Result Of Wechat Api {"return_code":"FAIL","retmsg":"请确认请求参数是否正确mch_id","retcode":"1"} 
+
+2020-04-02 16:21:57 > yansongda.pay.DEBUG > Wechat Generate Sign Content Before Trim [{"mch_id":"14577xxxx","nonce_str":"OBJ9K7P3SB4WiSgT"},"mch_id=14577xxxx&nonce_str=OBJ9K7P3SB4WiSgT&"] 
+
+2020-04-02 16:21:57 > yansongda.pay.DEBUG > Wechat Generate Sign Before UPPER [{"mch_id":"14577xxxx","nonce_str":"OBJ9K7P3SB4WiSgT"},"10bd7f282646efcc55e22a515dc7e39d"] 
+
+2020-04-02 16:21:57 > yansongda.pay.DEBUG > Requesting To Wechat Api ["https://api.mch.weixin.qq.com/sandboxnew/pay/getsignkey",{"mch_id":"14577xxxx","nonce_str":"OBJ9K7P3SB4WiSgT","sign":"10BD7F282646EFCC55E22A515DC7E39D"}] 
+
+2020-04-02 16:21:57 > yansongda.pay.DEBUG > Result Of Wechat Api {"return_code":"FAIL","retmsg":"请确认请求参数是否正确mch_id","retcode":"1"} 
+
+2020-04-02 16:22:46 > yansongda.pay.DEBUG > Wechat Generate Sign Content Before Trim [{"mch_id":"14577xxxx","nonce_str":"UgQBBvcQdXY6nLBI"},"mch_id=14577xxxx&nonce_str=UgQBBvcQdXY6nLBI&"] 
+
+2020-04-02 16:22:46 > yansongda.pay.DEBUG > Wechat Generate Sign Before UPPER [{"mch_id":"14577xxxx","nonce_str":"UgQBBvcQdXY6nLBI"},"c7ee68ed1333ce0cedac51404f2b1671"] 
+
+2020-04-02 16:22:46 > yansongda.pay.DEBUG > Requesting To Wechat Api ["https://api.mch.weixin.qq.com/sandboxnew/pay/getsignkey",{"mch_id":"14577xxxx","nonce_str":"UgQBBvcQdXY6nLBI","sign":"C7EE68ED1333CE0CEDAC51404F2B1671"}] 
+
+2020-04-02 16:22:47 > yansongda.pay.DEBUG > Result Of Wechat Api {"return_code":"FAIL","retmsg":"请确认请求参数是否正确mch_id","retcode":"1"} 
+
+2020-04-02 16:23:15 > yansongda.pay.DEBUG > Wechat Generate Sign Content Before Trim [{"mch_id":"14577xxxx","nonce_str":"sYlUhUqOzxDQNU97"},"mch_id=14577xxxx&nonce_str=sYlUhUqOzxDQNU97&"] 
+
+2020-04-02 16:23:15 > yansongda.pay.DEBUG > Wechat Generate Sign Before UPPER [{"mch_id":"14577xxxx","nonce_str":"sYlUhUqOzxDQNU97"},"c25cfcc157b2036e3656c8e4cd8fa242"] 
+
+2020-04-02 16:23:15 > yansongda.pay.DEBUG > Requesting To Wechat Api ["https://api.mch.weixin.qq.com/sandboxnew/pay/getsignkey",{"mch_id":"14577xxxx","nonce_str":"sYlUhUqOzxDQNU97","sign":"C25CFCC157B2036E3656C8E4CD8FA242"}] 
+
+2020-04-02 16:23:15 > yansongda.pay.DEBUG > Result Of Wechat Api {"return_code":"FAIL","retmsg":"请确认请求参数是否正确mch_id","retcode":"1"} 
+
+2020-04-02 17:20:11 > yansongda.pay.DEBUG > Wechat Generate Sign Content Before Trim [{"mch_id":"14577xxxx","nonce_str":"x6uwfFTQeYNlAH4S"},"mch_id=14577xxxx&nonce_str=x6uwfFTQeYNlAH4S&"] 
+
+2020-04-02 17:20:11 > yansongda.pay.DEBUG > Wechat Generate Sign Before UPPER [{"mch_id":"14577xxxx","nonce_str":"x6uwfFTQeYNlAH4S"},"d6a12c97df471fb84779c36cb7e768a8"] 
+
+2020-04-02 17:20:11 > yansongda.pay.DEBUG > Requesting To Wechat Api ["https://api.mch.weixin.qq.com/sandboxnew/pay/getsignkey",{"mch_id":"14577xxxx","nonce_str":"x6uwfFTQeYNlAH4S","sign":"D6A12C97DF471FB84779C36CB7E768A8"}] 
+
+2020-04-02 17:20:11 > yansongda.pay.DEBUG > Result Of Wechat Api {"@attributes":{"lang":"zh-cn"},"head":{"meta":{"@attributes":{"charset":"UTF-8"}},"title":"公益404"},"body":{"script":{"@attributes":{"type":"text/javascript","src":"//qzonestyle.gtimg.cn/qzone/hybrid/app/404/search_children.js","charset":"utf-8"}}}} 
+
+2020-04-03 14:23:19 > yansongda.pay.DEBUG > Wechat Generate Sign Content Before Trim [{"mch_id":"14577xxxx","nonce_str":"EenhlLmKLYMuMuSR"},"mch_id=14577xxxx&nonce_str=EenhlLmKLYMuMuSR&"] 
+
+2020-04-03 14:23:19 > yansongda.pay.DEBUG > Wechat Generate Sign Before UPPER [{"mch_id":"14577xxxx","nonce_str":"EenhlLmKLYMuMuSR"},"71a3e8d15f4e05f055cc81db45910c45"] 
+
+2020-04-03 14:23:19 > yansongda.pay.DEBUG > Requesting To Wechat Api ["https://api.mch.weixin.qq.com/sandboxnew/pay/getsignkey",{"mch_id":"14577xxxx","nonce_str":"EenhlLmKLYMuMuSR","sign":"71A3E8D15F4E05F055CC81DB45910C45"}] 
+
+2020-04-03 14:23:19 > yansongda.pay.DEBUG > Result Of Wechat Api {"return_code":"FAIL","retmsg":"请确认请求参数是否正确mch_id","retcode":"1"} 
+
+2020-04-03 14:37:34 > yansongda.pay.DEBUG > Wechat Generate Sign Content Before Trim [{"mch_id":"14577xxxx","nonce_str":"hQKtz2cyOaOiKrl0"},"mch_id=14577xxxx&nonce_str=hQKtz2cyOaOiKrl0&"] 
+
+2020-04-03 14:37:34 > yansongda.pay.DEBUG > Wechat Generate Sign Before UPPER [{"mch_id":"14577xxxx","nonce_str":"hQKtz2cyOaOiKrl0"},"46fd6499f9fafcd0d29385591f8b1265"] 
+
+2020-04-03 14:37:34 > yansongda.pay.DEBUG > Requesting To Wechat Api ["https://api.mch.weixin.qq.com/sandboxnew/pay/getsignkey",{"mch_id":"14577xxxx","nonce_str":"hQKtz2cyOaOiKrl0","sign":"46FD6499F9FAFCD0D29385591F8B1265"}] 
+
+2020-04-03 14:37:35 > yansongda.pay.DEBUG > Result Of Wechat Api {"return_code":"FAIL","retmsg":"请确认请求参数是否正确mch_id","retcode":"1"} 
+
+2020-04-15 14:56:23 > yansongda.pay.DEBUG > Wechat Generate Sign Content Before Trim [{"mch_id":"1586415601","nonce_str":"JR7sAFnwWzjWzasV"},"mch_id=1586415601&nonce_str=JR7sAFnwWzjWzasV&"] 
+
+2020-04-15 14:56:23 > yansongda.pay.DEBUG > Wechat Generate Sign Before UPPER [{"mch_id":"1586415601","nonce_str":"JR7sAFnwWzjWzasV"},"420ab243181a8cc96d7e01488ced3ad8"] 
+
+2020-04-15 14:56:23 > yansongda.pay.DEBUG > Requesting To Wechat Api ["https://api.mch.weixin.qq.com/sandboxnew/pay/getsignkey",{"mch_id":"1586415601","nonce_str":"JR7sAFnwWzjWzasV","sign":"420AB243181A8CC96D7E01488CED3AD8"}] 
+
+2020-04-15 14:56:24 > yansongda.pay.DEBUG > Result Of Wechat Api {"return_code":"SUCCESS","return_msg":"ok","sandbox_signkey":"e6be27c8a640cec3b335d7920c65f789"} 
+
+2020-04-15 14:56:24 > yansongda.pay.DEBUG > Starting To Wechat ["mp",{"out_trade_no":1586933783,"total_fee":"1","body":"test body - 测试","openid":"onkVf1FjWS5SBIixxxxxxx"}] 
+
+2020-04-15 14:56:24 > yansongda.pay.DEBUG > Wechat Generate Sign Content Before Trim [{"appid":"wxb3fxxxxxxxxxxx","body":"test body - 测试","mch_id":"1586415601","nonce_str":"lvcFYZTBsUO64nik","notify_url":"http://www.fxs.com/notify","openid":"onkVf1FjWS5SBIixxxxxxx","out_trade_no":1586933783,"spbill_create_ip":"127.0.0.1","total_fee":"1","trade_type":"JSAPI"},"appid=wxb3fxxxxxxxxxxx&body=test body - 测试&mch_id=1586415601&nonce_str=lvcFYZTBsUO64nik&notify_url=http://www.fxs.com/notify&openid=onkVf1FjWS5SBIixxxxxxx&out_trade_no=1586933783&spbill_create_ip=127.0.0.1&total_fee=1&trade_type=JSAPI&"] 
+
+2020-04-15 14:56:24 > yansongda.pay.DEBUG > Wechat Generate Sign Before UPPER [{"appid":"wxb3fxxxxxxxxxxx","body":"test body - 测试","mch_id":"1586415601","nonce_str":"lvcFYZTBsUO64nik","notify_url":"http://www.fxs.com/notify","openid":"onkVf1FjWS5SBIixxxxxxx","out_trade_no":1586933783,"spbill_create_ip":"127.0.0.1","total_fee":"1","trade_type":"JSAPI"},"274e26cbcfc497f53a576cbc0c88b070"] 
+
+2020-04-15 14:56:24 > yansongda.pay.INFO > Wechat PreOrder Method Has Called ["",{"appid":"wxb3fxxxxxxxxxxx","mch_id":"1586415601","nonce_str":"lvcFYZTBsUO64nik","notify_url":"http://www.fxs.com/notify","spbill_create_ip":"127.0.0.1","out_trade_no":1586933783,"total_fee":"1","body":"test body - 测试","openid":"onkVf1FjWS5SBIixxxxxxx","trade_type":"JSAPI","sign":"274E26CBCFC497F53A576CBC0C88B070"}] 
+
+2020-04-15 14:56:24 > yansongda.pay.DEBUG > Requesting To Wechat Api ["https://api.mch.weixin.qq.com/sandboxnew/pay/unifiedorder",{"appid":"wxb3fxxxxxxxxxxx","mch_id":"1586415601","nonce_str":"lvcFYZTBsUO64nik","notify_url":"http://www.fxs.com/notify","spbill_create_ip":"127.0.0.1","out_trade_no":1586933783,"total_fee":"1","body":"test body - 测试","openid":"onkVf1FjWS5SBIixxxxxxx","trade_type":"JSAPI","sign":"274E26CBCFC497F53A576CBC0C88B070"}] 
+
+2020-04-15 14:56:24 > yansongda.pay.DEBUG > Result Of Wechat Api {"return_code":"FAIL","return_msg":"沙箱支付金额(1)无效，请检查需要验收的case"} 
+
+2020-04-15 14:57:19 > yansongda.pay.DEBUG > Starting To Wechat ["mp",{"out_trade_no":1586933839,"total_fee":"1","body":"test body - 测试","openid":"onkVf1FjWS5SBIixxxxxxx"}] 
+
+2020-04-15 14:57:19 > yansongda.pay.DEBUG > Wechat Generate Sign Content Before Trim [{"appid":"wxb3fxxxxxxxxxxx","body":"test body - 测试","mch_id":"1586415601","nonce_str":"Ubh8JfrWTLegdABV","notify_url":"http://www.fxs.com/notify","openid":"onkVf1FjWS5SBIixxxxxxx","out_trade_no":1586933839,"spbill_create_ip":"127.0.0.1","total_fee":"1","trade_type":"JSAPI"},"appid=wxb3fxxxxxxxxxxx&body=test body - 测试&mch_id=1586415601&nonce_str=Ubh8JfrWTLegdABV&notify_url=http://www.fxs.com/notify&openid=onkVf1FjWS5SBIixxxxxxx&out_trade_no=1586933839&spbill_create_ip=127.0.0.1&total_fee=1&trade_type=JSAPI&"] 
+
+2020-04-15 14:57:19 > yansongda.pay.DEBUG > Wechat Generate Sign Before UPPER [{"appid":"wxb3fxxxxxxxxxxx","body":"test body - 测试","mch_id":"1586415601","nonce_str":"Ubh8JfrWTLegdABV","notify_url":"http://www.fxs.com/notify","openid":"onkVf1FjWS5SBIixxxxxxx","out_trade_no":1586933839,"spbill_create_ip":"127.0.0.1","total_fee":"1","trade_type":"JSAPI"},"b3afe2a2a5249a4e565169962d5b9bfc"] 
+
+2020-04-15 14:57:19 > yansongda.pay.INFO > Wechat PreOrder Method Has Called ["",{"appid":"wxb3fxxxxxxxxxxx","mch_id":"1586415601","nonce_str":"Ubh8JfrWTLegdABV","notify_url":"http://www.fxs.com/notify","spbill_create_ip":"127.0.0.1","out_trade_no":1586933839,"total_fee":"1","body":"test body - 测试","openid":"onkVf1FjWS5SBIixxxxxxx","trade_type":"JSAPI","sign":"B3AFE2A2A5249A4E565169962D5B9BFC"}] 
+
+2020-04-15 14:57:19 > yansongda.pay.DEBUG > Requesting To Wechat Api ["https://apihk.mch.weixin.qq.com/pay/unifiedorder",{"appid":"wxb3fxxxxxxxxxxx","mch_id":"1586415601","nonce_str":"Ubh8JfrWTLegdABV","notify_url":"http://www.fxs.com/notify","spbill_create_ip":"127.0.0.1","out_trade_no":1586933839,"total_fee":"1","body":"test body - 测试","openid":"onkVf1FjWS5SBIixxxxxxx","trade_type":"JSAPI","sign":"B3AFE2A2A5249A4E565169962D5B9BFC"}] 
+
+2020-04-15 14:57:23 > yansongda.pay.DEBUG > Result Of Wechat Api {"return_code":"FAIL","return_msg":"appid参数长度有误"} 
+
+2020-04-15 15:48:48 > yansongda.pay.DEBUG > Starting To Wechat ["mp",{"out_trade_no":1586936928,"total_fee":"1","body":"test body - 测试","openid":"onkVf1FjWS5SBIixxxxxxx"}] 
+
+2020-04-15 15:48:48 > yansongda.pay.DEBUG > Wechat Generate Sign Content Before Trim [{"appid":"wx26ff8c9db22f9510","body":"test body - 测试","mch_id":"1586415601","nonce_str":"fAmnzEM12TVkfkiU","notify_url":"http://www.fxs.com/notify","openid":"onkVf1FjWS5SBIixxxxxxx","out_trade_no":1586936928,"spbill_create_ip":"127.0.0.1","total_fee":"1","trade_type":"JSAPI"},"appid=wx26ff8c9db22f9510&body=test body - 测试&mch_id=1586415601&nonce_str=fAmnzEM12TVkfkiU&notify_url=http://www.fxs.com/notify&openid=onkVf1FjWS5SBIixxxxxxx&out_trade_no=1586936928&spbill_create_ip=127.0.0.1&total_fee=1&trade_type=JSAPI&"] 
+
+2020-04-15 15:48:48 > yansongda.pay.DEBUG > Wechat Generate Sign Before UPPER [{"appid":"wx26ff8c9db22f9510","body":"test body - 测试","mch_id":"1586415601","nonce_str":"fAmnzEM12TVkfkiU","notify_url":"http://www.fxs.com/notify","openid":"onkVf1FjWS5SBIixxxxxxx","out_trade_no":1586936928,"spbill_create_ip":"127.0.0.1","total_fee":"1","trade_type":"JSAPI"},"fd1e65a5d3c2f471e1be9cd6bf996337"] 
+
+2020-04-15 15:48:48 > yansongda.pay.INFO > Wechat PreOrder Method Has Called ["",{"appid":"wx26ff8c9db22f9510","mch_id":"1586415601","nonce_str":"fAmnzEM12TVkfkiU","notify_url":"http://www.fxs.com/notify","spbill_create_ip":"127.0.0.1","out_trade_no":1586936928,"total_fee":"1","body":"test body - 测试","openid":"onkVf1FjWS5SBIixxxxxxx","trade_type":"JSAPI","sign":"FD1E65A5D3C2F471E1BE9CD6BF996337"}] 
+
+2020-04-15 15:48:48 > yansongda.pay.DEBUG > Requesting To Wechat Api ["https://apihk.mch.weixin.qq.com/pay/unifiedorder",{"appid":"wx26ff8c9db22f9510","mch_id":"1586415601","nonce_str":"fAmnzEM12TVkfkiU","notify_url":"http://www.fxs.com/notify","spbill_create_ip":"127.0.0.1","out_trade_no":1586936928,"total_fee":"1","body":"test body - 测试","openid":"onkVf1FjWS5SBIixxxxxxx","trade_type":"JSAPI","sign":"FD1E65A5D3C2F471E1BE9CD6BF996337"}] 
+
+2020-04-15 15:48:50 > yansongda.pay.DEBUG > Result Of Wechat Api {"return_code":"SUCCESS","return_msg":"OK","appid":"wx26ff8c9db22f9510","mch_id":"1586415601","nonce_str":"9wHCN3dHxjulXwsN","sign":"80F3B1FD64330D1F1AAD4EBDAE4C72F2","result_code":"FAIL","err_code":"PARAM_ERROR","err_code_des":"无效的openid"} 
+
+2020-04-15 15:54:15 > yansongda.pay.DEBUG > Starting To Wechat ["mp",{"out_trade_no":1586937255,"total_fee":"1","body":"test body - 测试","openid":"onkVf1FjWS5SBIixxxxxxx"}] 
+
+2020-04-15 15:54:33 > yansongda.pay.DEBUG > Starting To Wechat ["mp",{"out_trade_no":1586937273,"total_fee":"1","body":"test body - 测试","openid":"onkVf1FjWS5SBIixxxxxxx"}] 
+
+2020-04-15 15:54:58 > yansongda.pay.DEBUG > Starting To Wechat ["mp",{"out_trade_no":1586937298,"total_fee":"1","body":"test body - 测试","openid":"onkVf1FjWS5SBIixxxxxxx"}] 
+
+2020-04-15 15:54:58 > yansongda.pay.DEBUG > Wechat Generate Sign Content Before Trim [{"appid":"wx26ff8c9db22f9510","body":"test body - 测试","mch_id":"1586415601","nonce_str":"A85uSbnKLVnfDeYU","notify_url":"http://www.fxs.com/notify","openid":"onkVf1FjWS5SBIixxxxxxx","out_trade_no":1586937298,"spbill_create_ip":"127.0.0.1","total_fee":"1","trade_type":"JSAPI"},"appid=wx26ff8c9db22f9510&body=test body - 测试&mch_id=1586415601&nonce_str=A85uSbnKLVnfDeYU&notify_url=http://www.fxs.com/notify&openid=onkVf1FjWS5SBIixxxxxxx&out_trade_no=1586937298&spbill_create_ip=127.0.0.1&total_fee=1&trade_type=JSAPI&"] 
+
+2020-04-15 15:54:58 > yansongda.pay.DEBUG > Wechat Generate Sign Before UPPER [{"appid":"wx26ff8c9db22f9510","body":"test body - 测试","mch_id":"1586415601","nonce_str":"A85uSbnKLVnfDeYU","notify_url":"http://www.fxs.com/notify","openid":"onkVf1FjWS5SBIixxxxxxx","out_trade_no":1586937298,"spbill_create_ip":"127.0.0.1","total_fee":"1","trade_type":"JSAPI"},"2f5c8e6f3ae498ad2875a56adf68e088"] 
+
+2020-04-15 15:54:58 > yansongda.pay.INFO > Wechat PreOrder Method Has Called ["",{"appid":"wx26ff8c9db22f9510","mch_id":"1586415601","nonce_str":"A85uSbnKLVnfDeYU","notify_url":"http://www.fxs.com/notify","spbill_create_ip":"127.0.0.1","out_trade_no":1586937298,"total_fee":"1","body":"test body - 测试","openid":"onkVf1FjWS5SBIixxxxxxx","trade_type":"JSAPI","sign":"2F5C8E6F3AE498AD2875A56ADF68E088"}] 
+
+2020-04-15 15:54:58 > yansongda.pay.DEBUG > Requesting To Wechat Api ["https://apihk.mch.weixin.qq.com/pay/unifiedorder",{"appid":"wx26ff8c9db22f9510","mch_id":"1586415601","nonce_str":"A85uSbnKLVnfDeYU","notify_url":"http://www.fxs.com/notify","spbill_create_ip":"127.0.0.1","out_trade_no":1586937298,"total_fee":"1","body":"test body - 测试","openid":"onkVf1FjWS5SBIixxxxxxx","trade_type":"JSAPI","sign":"2F5C8E6F3AE498AD2875A56ADF68E088"}] 
+
+2020-04-15 15:55:00 > yansongda.pay.DEBUG > Result Of Wechat Api {"return_code":"SUCCESS","return_msg":"OK","appid":"wx26ff8c9db22f9510","mch_id":"1586415601","nonce_str":"N5MRcvYFyPDIzRQW","sign":"733C9026DFF643552D6623117EF44624","result_code":"FAIL","err_code":"PARAM_ERROR","err_code_des":"无效的openid"} 
+
