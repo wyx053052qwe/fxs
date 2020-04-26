@@ -26,7 +26,7 @@ class ApiController extends Controller
         $data = Team::where('t_status','<>',3)
             ->join('analysi','team.t_id','analysi.t_id')
             ->join('analysts','analysi.a_id','analysts.a_id')
-            orderBy('t_date','desc')
+            ->orderBy('t_date','desc')
             ->limit(8)->get();
 //        dd($data);
         $first =  Team::where('t_jing','=',2)->first();
