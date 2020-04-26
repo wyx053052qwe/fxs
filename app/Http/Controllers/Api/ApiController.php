@@ -25,7 +25,9 @@ class ApiController extends Controller
     {
         $data = Team::where('t_status','<>',3)
             ->join('analysi','team.t_id','analysi.t_id')
-            ->join('analysts','analysi.a_id','analysts.a_id')->limit(8)->get();
+            ->join('analysts','analysi.a_id','analysts.a_id')
+            orderBy('t_date','desc')
+            ->limit(8)->get();
 //        dd($data);
         $first =  Team::where('t_jing','=',2)->first();
         if($first){
@@ -99,6 +101,7 @@ class ApiController extends Controller
             ->join('analysts','analysi.a_id','=','analysts.a_id')
             ->join('team','analysi.t_id','=','team.t_id')
             ->join('result','analysi.t_id','=','result.t_id')
+            orderBy('t_date','desc')
             ->get();
 
         foreach($js as $k=>$v){
@@ -164,7 +167,7 @@ class ApiController extends Controller
        $date = explode('-',$date);
         $time = explode(':',$time);
        $hour = $time[0];
-      if($hour == 00 || $hour == 1 || $hour == 2 || $hour == 3 || $hour == 4 || $hour == 5 || $hour == 6){
+      if($hour == 00){
           $hours = 24 - 1;
       }else{
           $hours = $hour - 1;

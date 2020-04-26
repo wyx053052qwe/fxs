@@ -77,11 +77,6 @@ class AdminController extends Controller
         if(empty($data['aid'])){
             return json_encode(['code'=>4,'message'=>"请选择分析师"]);
         }
-        $name = $data['name'];
-        $result = Team::where('t_name',$name)->first();
-        if($result){
-            return json_encode(['code'=>1,'message'=>"已有该比赛"]);
-        }
         $time = strtotime($data['time']);
         $date = strtotime($data['date']);
         $arr = [
