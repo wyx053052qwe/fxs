@@ -101,7 +101,7 @@ class ApiController extends Controller
             ->join('analysts','analysi.a_id','=','analysts.a_id')
             ->join('team','analysi.t_id','=','team.t_id')
             ->join('result','analysi.t_id','=','result.t_id')
-            orderBy('t_date','desc')
+            ->orderBy('t_date','desc')
             ->get();
 
         foreach($js as $k=>$v){
